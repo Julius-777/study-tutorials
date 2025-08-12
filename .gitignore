@@ -53,6 +53,10 @@ yarn-error.log*
 .npm
 .eslintcache
 
+# Data files
+*.csv
+*.tsv
+
 # Logs
 *.log
 
